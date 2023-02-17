@@ -1,0 +1,190 @@
+[
+  {
+    "Name": "Andrew",
+    "SubfolderName": "Andrew",
+    "SubfolderPath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew",
+    "Description": "Test_1",
+    "Datapoints": [
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[9.625] Y[-0.5625] Z[-3.8125].JPG",
+        "Filename": "X[9.625] Y[-0.5625] Z[-3.8125].JPG",
+        "OrientationData": {
+          "X": 9.625,
+          "Y": -0.5625,
+          "Z": -3.8125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[4.8125] Y[-0.6875] Z[23.3125].JPG",
+        "Filename": "X[4.8125] Y[-0.6875] Z[23.3125].JPG",
+        "OrientationData": {
+          "X": 4.8125,
+          "Y": -0.6875,
+          "Z": 23.3125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[0.0625] Y[0.3125] Z[0.125].JPG",
+        "Filename": "X[0.0625] Y[0.3125] Z[0.125].JPG",
+        "OrientationData": {
+          "X": 0.0625,
+          "Y": 0.3125,
+          "Z": 0.125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[8.0625] Y[0.25] Z[0.125].JPG",
+        "Filename": "X[8.0625] Y[0.25] Z[0.125].JPG",
+        "OrientationData": {
+          "X": 8.0625,
+          "Y": 0.25,
+          "Z": 0.125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[0] Y[0] Z[0].JPG",
+        "Filename": "X[0] Y[0] Z[0].JPG",
+        "OrientationData": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[56.5] Y[-0.625] Z[-3.875].JPG",
+        "Filename": "X[56.5] Y[-0.625] Z[-3.875].JPG",
+        "OrientationData": {
+          "X": 56.5,
+          "Y": -0.625,
+          "Z": -3.875
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[53.9375] Y[-1.4375] Z[90.5].JPG",
+        "Filename": "X[53.9375] Y[-1.4375] Z[90.5].JPG",
+        "OrientationData": {
+          "X": 53.9375,
+          "Y": -1.4375,
+          "Z": 90.5
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[237.6875] Y[-0.375] Z[174.25].JPG",
+        "Filename": "X[237.6875] Y[-0.375] Z[174.25].JPG",
+        "OrientationData": {
+          "X": 237.6875,
+          "Y": -0.375,
+          "Z": 174.25
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[238.0625] Y[-0.8125] Z[179.1875].JPG",
+        "Filename": "X[238.0625] Y[-0.8125] Z[179.1875].JPG",
+        "OrientationData": {
+          "X": 238.0625,
+          "Y": -0.8125,
+          "Z": 179.1875
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[58] Y[1.375] Z[-80.5].JPG",
+        "Filename": "X[58] Y[1.375] Z[-80.5].JPG",
+        "OrientationData": {
+          "X": 58.0,
+          "Y": 1.375,
+          "Z": -80.5
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[142.125] Y[2.6875] Z[0.3125].JPG",
+        "Filename": "X[142.125] Y[2.6875] Z[0.3125].JPG",
+        "OrientationData": {
+          "X": 142.125,
+          "Y": 2.6875,
+          "Z": 0.3125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[144.3125] Y[0.25] Z[0.9375].JPG",
+        "Filename": "X[144.3125] Y[0.25] Z[0.9375].JPG",
+        "OrientationData": {
+          "X": 144.3125,
+          "Y": 0.25,
+          "Z": 0.9375
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[144.125] Y[-1] Z[85.375].JPG",
+        "Filename": "X[144.125] Y[-1] Z[85.375].JPG",
+        "OrientationData": {
+          "X": 144.125,
+          "Y": -1.0,
+          "Z": 85.375
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[324.6875] Y[-1.25] Z[179.125].JPG",
+        "Filename": "X[324.6875] Y[-1.25] Z[179.125].JPG",
+        "OrientationData": {
+          "X": 324.6875,
+          "Y": -1.25,
+          "Z": 179.125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[144.5625] Y[-4.375] Z[-87.25].JPG",
+        "Filename": "X[144.5625] Y[-4.375] Z[-87.25].JPG",
+        "OrientationData": {
+          "X": 144.5625,
+          "Y": -4.375,
+          "Z": -87.25
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[147.625] Y[-2.5625] Z[-1.0625].JPG",
+        "Filename": "X[147.625] Y[-2.5625] Z[-1.0625].JPG",
+        "OrientationData": {
+          "X": 147.625,
+          "Y": -2.5625,
+          "Z": -1.0625
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[240.875] Y[-4.0625] Z[6.8125].JPG",
+        "Filename": "X[240.875] Y[-4.0625] Z[6.8125].JPG",
+        "OrientationData": {
+          "X": 240.875,
+          "Y": -4.0625,
+          "Z": 6.8125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[241.0625] Y[-3.5] Z[88.3125].JPG",
+        "Filename": "X[241.0625] Y[-3.5] Z[88.3125].JPG",
+        "OrientationData": {
+          "X": 241.0625,
+          "Y": -3.5,
+          "Z": 88.3125
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[64.6875] Y[-3.875] Z[-175.75].JPG",
+        "Filename": "X[64.6875] Y[-3.875] Z[-175.75].JPG",
+        "OrientationData": {
+          "X": 64.6875,
+          "Y": -3.875,
+          "Z": -175.75
+        }
+      },
+      {
+        "Filepath": "C:\\Users\\whatt\\OneDrive\\Documents\\GitHub\\Neuromorphic-Vision-Capstone\\digiCamControl\\Collection\\bin\\Debug\\Andrew\\X[248.75] Y[-4.25] Z[-85.1875].JPG",
+        "Filename": "X[248.75] Y[-4.25] Z[-85.1875].JPG",
+        "OrientationData": {
+          "X": 248.75,
+          "Y": -4.25,
+          "Z": -85.1875
+        }
+      }
+    ]
+  }
+]
